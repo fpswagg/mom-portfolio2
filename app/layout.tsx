@@ -29,7 +29,10 @@ export const metadata: Metadata = {
     title: "Eleke Ernestine | Juriste & Consultante en Propriété Intellectuelle",
     description: "Juriste camerounaise spécialisée en propriété intellectuelle et conseil juridique.",
     type: "website",
-  }
+  },
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
