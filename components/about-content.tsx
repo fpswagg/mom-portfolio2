@@ -108,7 +108,7 @@ export function AboutContent() {
           </div>
 
           {/* Education */}
-          <div className="mb-16 lg:mb-20 opacity-0 animate-fade-in-up animate-delay-250">
+          {/* <div className="mb-16 lg:mb-20 opacity-0 animate-fade-in-up animate-delay-250">
             <h2 className="font-serif text-2xl lg:text-3xl font-semibold mb-8">{t("about.education.title")}</h2>
             <div className="space-y-4">
               {education.map((item, index) => (
@@ -130,7 +130,7 @@ export function AboutContent() {
                 </div>
               ))}
             </div>
-          </div>
+          </div> */}
 
           {/* Professional Experience */}
           <div className="mb-16 lg:mb-20 opacity-0 animate-fade-in-up animate-delay-300">
