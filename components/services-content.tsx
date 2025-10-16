@@ -59,18 +59,7 @@ export function ServicesContent() {
         t("services.compliance.item3"),
         t("services.compliance.item4"),
       ],
-    },
-    {
-      icon: BookCheck,
-      title: t("services.training.title"),
-      description: t("services.training.description"),
-      items: [
-        t("services.training.item1"),
-        t("services.training.item2"),
-        t("services.training.item3"),
-        t("services.training.item4"),
-      ],
-    },
+    }
   ]
 
   return (

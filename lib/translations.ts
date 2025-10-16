@@ -7,9 +7,9 @@ export const translations = {
       contact: "Contact",
     },
     hero: {
-      title: "Juriste & Consultante en Propriété Intellectuelle",
+      title: "Juriste & Conseil en Propriété Intellectuelle",
       intro:
-        "Expertise juridique spécialisée en propriété intellectuelle, droit des affaires et conseil stratégique pour entreprises et créateurs au Cameroun et en Afrique centrale.",
+        "Expertise juridique spécialisée et conseil en propriété intellectuelle pour les entreprises et créateurs.",
       cta: "Découvrir mes services",
       contact: "Me contacter",
     },
@@ -17,8 +17,8 @@ export const translations = {
       title: "À Propos",
       background: {
         title: "Parcours",
-        p1: "Juriste camerounaise passionnée par le droit de la propriété intellectuelle, je mets mon expertise au service des entreprises, créateurs et innovateurs qui souhaitent protéger et valoriser leurs actifs immatériels.",
-        p2: "Diplômée en droit des affaires et spécialisée en propriété intellectuelle, j'ai développé une solide expérience dans l'accompagnement juridique des entreprises, des startups et des créateurs de contenu dans la protection de leurs marques, brevets, droits d'auteur et secrets d'affaires.",
+        p1: "Juriste camerounaise passionnée par le droit et la propriété intellectuelle, je mets mon expertise au service des entreprises, créateurs et innovateurs qui souhaitent protéger et valoriser leurs actifs immatériels.",
+        p2: "Diplômée en droit et spécialisée en propriété intellectuelle, j'ai développé une solide expérience dans l'accompagnement juridique des entreprises, des startups et des créateurs de contenu dans la protection de leurs marques, brevets, droits d'auteur et secrets d'affaires.",
         p3: "Mon approche allie rigueur juridique et compréhension des enjeux business, permettant à mes clients de prendre des décisions éclairées et stratégiques pour leur développement.",
       },
       education: {
@@ -139,14 +139,6 @@ export const translations = {
         item3: "Protection des données (RGPD)",
         item4: "Politiques internes",
       },
-      training: {
-        title: "Formation & Conseil",
-        description: "Sensibilisation et formation en droit des affaires.",
-        item1: "Formations en propriété intellectuelle",
-        item2: "Ateliers juridiques pour entreprises",
-        item3: "Conseil stratégique",
-        item4: "Due diligence juridique",
-      },
       cta: "Besoin d'un accompagnement juridique personnalisé ?",
       ctaButton: "Prendre contact",
     },
@@ -166,7 +158,7 @@ export const translations = {
       },
     },
     footer: {
-      tagline: "Expertise juridique en propriété intellectuelle et droit des affaires",
+      tagline: "Expertise juridique et en propriété intellectuelle",
       quickLinks: "Liens Rapides",
       contact: "Contact",
       legal: "Mentions Légales",
@@ -214,9 +206,9 @@ export const translations = {
       contact: "Contact",
     },
     hero: {
-      title: "Jurist & Intellectual Property Consultant",
+      title: "Jurist & Intellectual Property Advisor",
       intro:
-        "Specialized legal expertise in intellectual property, business law, and strategic consulting for businesses and creators in Cameroon and Central Africa.",
+        "Specialized legal expertise and strategic advice in intellectual property for companies and creators.",
       cta: "Discover my services",
       contact: "Contact me",
     },
@@ -225,7 +217,7 @@ export const translations = {
       background: {
         title: "Background",
         p1: "As a Cameroonian jurist passionate about intellectual property law, I dedicate my expertise to serving businesses, creators, and innovators who wish to protect and enhance their intangible assets.",
-        p2: "With a degree in business law and specialization in intellectual property, I have developed solid experience in providing legal support to companies, startups, and content creators in protecting their trademarks, patents, copyrights, and trade secrets.",
+        p2: "With a degree in law and a specialization in intellectual property, I have developed solid experience in providing legal support to companies, startups, and content creators in protecting their trademarks, patents, copyrights, and trade secrets.",
         p3: "My approach combines legal rigor with an understanding of business challenges, enabling my clients to make informed and strategic decisions for their development.",
       },
       education: {
@@ -345,14 +337,6 @@ export const translations = {
         item3: "Data protection (GDPR)",
         item4: "Internal policies",
       },
-      training: {
-        title: "Training & Consulting",
-        description: "Awareness and training in business law.",
-        item1: "Intellectual property training",
-        item2: "Legal workshops for businesses",
-        item3: "Strategic consulting",
-        item4: "Legal due diligence",
-      },
       cta: "Need personalized legal support?",
       ctaButton: "Get in touch",
     },
@@ -371,7 +355,7 @@ export const translations = {
       },
     },
     footer: {
-      tagline: "Legal expertise in intellectual property and business law",
+      tagline: "Legal expertise in intellectual property and legal services",
       quickLinks: "Quick Links",
       contact: "Contact",
       legal: "Legal Mentions",

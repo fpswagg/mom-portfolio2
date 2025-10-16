@@ -20,14 +20,14 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Eleke Ernestine | Juriste & Consultante en Propriété Intellectuelle",
+  title: "Eleke Ernestine | Juriste & Conseil en Propriété Intellectuelle",
   description:
-    "Juriste camerounaise spécialisée en propriété intellectuelle et conseil juridique. Expertise en droit des affaires, protection des marques et brevets.",
+    "Juriste spécialisée en propriété intellectuelle et conseil juridique. Protection des marques et brevets.",
   keywords: "juriste, propriété intellectuelle, conseil juridique, Cameroun, droit des affaires, marques, brevets",
   authors: [{ name: "Eleke Ernestine" }],
   openGraph: {
-    title: "Eleke Ernestine | Juriste & Consultante en Propriété Intellectuelle",
-    description: "Juriste camerounaise spécialisée en propriété intellectuelle et conseil juridique.",
+    title: "Eleke Ernestine | Juriste & Conseil en Propriété Intellectuelle",
+    description: "Juriste spécialisée en propriété intellectuelle et conseil juridique.",
     type: "website",
   },
   icons: {
